@@ -40,7 +40,7 @@ async def main():
             "messages": [
                 {
                     "role": "user",
-                    "content": "WRITE THE ROADMAP FOR AI AGENT WITH PYTHON"
+                    "content": "Delete projects/test.txt."
                 }
             ]
         }

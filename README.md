@@ -23,12 +23,12 @@ The basic architecture is:
 
 User -> LangChain Agent -> MCP Client -> MCP File Server
   
-  +-- list_files()
-  +-- read_file()
-  +-- search_files()
-  +-- write_file()
-  +-- create_directory()
-  +-- delete_file()
+- list_files()
+- read_file()
+- search_files()
+- write_file()
+- create_directory()
+- delete_file()
   
 workspace/
 

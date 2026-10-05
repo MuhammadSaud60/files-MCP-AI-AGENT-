@@ -1,0 +1,2 @@
+i am learning langchain and langgraph 
+to became an ai agent engineer
